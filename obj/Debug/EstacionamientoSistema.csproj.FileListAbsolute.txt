@@ -1,0 +1,36 @@
+C:\Users\ernes\ProyectosDesarrollo\c#\EstacionamientoSistema\EstacionamientoSistema\obj\Debug\EstacionamientoSistema.csproj.AssemblyReference.cache
+C:\Users\ernes\ProyectosDesarrollo\c#\EstacionamientoSistema\EstacionamientoSistema\obj\Debug\EstacionamientoSistema.controlesPersonalizados.RJComboBox.resources
+C:\Users\ernes\ProyectosDesarrollo\c#\EstacionamientoSistema\EstacionamientoSistema\obj\Debug\EstacionamientoSistema.controlesPersonalizados.RJTextBox2.resources
+C:\Users\ernes\ProyectosDesarrollo\c#\EstacionamientoSistema\EstacionamientoSistema\obj\Debug\EstacionamientoSistema.Form1.resources
+C:\Users\ernes\ProyectosDesarrollo\c#\EstacionamientoSistema\EstacionamientoSistema\obj\Debug\EstacionamientoSistema.Properties.Resources.resources
+C:\Users\ernes\ProyectosDesarrollo\c#\EstacionamientoSistema\EstacionamientoSistema\obj\Debug\EstacionamientoSistema.csproj.GenerateResource.cache
+C:\Users\ernes\ProyectosDesarrollo\c#\EstacionamientoSistema\EstacionamientoSistema\obj\Debug\EstacionamientoSistema.csproj.CoreCompileInputs.cache
+C:\Users\ernes\ProyectosDesarrollo\c#\EstacionamientoSistema\EstacionamientoSistema\bin\Debug\EstacionamientoSistema.exe.config
+C:\Users\ernes\ProyectosDesarrollo\c#\EstacionamientoSistema\EstacionamientoSistema\bin\Debug\EstacionamientoSistema.exe
+C:\Users\ernes\ProyectosDesarrollo\c#\EstacionamientoSistema\EstacionamientoSistema\bin\Debug\EstacionamientoSistema.pdb
+C:\Users\ernes\ProyectosDesarrollo\c#\EstacionamientoSistema\EstacionamientoSistema\obj\Debug\EstacionamientoSistema.exe
+C:\Users\ernes\ProyectosDesarrollo\c#\EstacionamientoSistema\EstacionamientoSistema\obj\Debug\EstacionamientoSistema.pdb
+C:\Users\ernes\ProyectosDesarrollo\c#\EstacionamientoSistema\EstacionamientoSistema\obj\Debug\EstacionamientoSistema.Dashboard.resources
+C:\Users\ernes\ProyectosDesarrollo\c#\EstacionamientoSistema\EstacionamientoSistema\obj\Debug\EstacionamientoSistema.modulos.DashboardGeneral.resources
+C:\Users\ernes\ProyectosDesarrollo\c#\EstacionamientoSistema\EstacionamientoSistema\obj\Debug\EstacionamientoSistema.modulos.Entrada.resources
+C:\Users\ernes\ProyectosDesarrollo\c#\EstacionamientoSistema\EstacionamientoSistema\obj\Debug\EstacionamientoSistema.modulos.Registro.resources
+C:\Users\ernes\ProyectosDesarrollo\c#\EstacionamientoSistema\EstacionamientoSistema\obj\Debug\EstacionamientoSistema.modulos.Salida.resources
+C:\Users\ernes\ProyectosDesarrollo\c#\EstacionamientoSistema\EstacionamientoSistema\obj\Debug\EstacionamientoSistema.modulos.Usuario.resources
+C:\Users\Ana Laura\Downloads\EstacionamientoSistema\EstacionamientoSistema\bin\Debug\EstacionamientoSistema.exe.config
+C:\Users\Ana Laura\Downloads\EstacionamientoSistema\EstacionamientoSistema\bin\Debug\EstacionamientoSistema.exe
+C:\Users\Ana Laura\Downloads\EstacionamientoSistema\EstacionamientoSistema\bin\Debug\EstacionamientoSistema.pdb
+C:\Users\Ana Laura\Downloads\EstacionamientoSistema\EstacionamientoSistema\obj\Debug\EstacionamientoSistema.csproj.AssemblyReference.cache
+C:\Users\Ana Laura\Downloads\EstacionamientoSistema\EstacionamientoSistema\obj\Debug\EstacionamientoSistema.controlesPersonalizados.RJComboBox.resources
+C:\Users\Ana Laura\Downloads\EstacionamientoSistema\EstacionamientoSistema\obj\Debug\EstacionamientoSistema.controlesPersonalizados.RJTextBox2.resources
+C:\Users\Ana Laura\Downloads\EstacionamientoSistema\EstacionamientoSistema\obj\Debug\EstacionamientoSistema.Dashboard.resources
+C:\Users\Ana Laura\Downloads\EstacionamientoSistema\EstacionamientoSistema\obj\Debug\EstacionamientoSistema.Form1.resources
+C:\Users\Ana Laura\Downloads\EstacionamientoSistema\EstacionamientoSistema\obj\Debug\EstacionamientoSistema.modulos.DashboardGeneral.resources
+C:\Users\Ana Laura\Downloads\EstacionamientoSistema\EstacionamientoSistema\obj\Debug\EstacionamientoSistema.modulos.Entrada.resources
+C:\Users\Ana Laura\Downloads\EstacionamientoSistema\EstacionamientoSistema\obj\Debug\EstacionamientoSistema.modulos.Registro.resources
+C:\Users\Ana Laura\Downloads\EstacionamientoSistema\EstacionamientoSistema\obj\Debug\EstacionamientoSistema.modulos.Salida.resources
+C:\Users\Ana Laura\Downloads\EstacionamientoSistema\EstacionamientoSistema\obj\Debug\EstacionamientoSistema.modulos.Usuario.resources
+C:\Users\Ana Laura\Downloads\EstacionamientoSistema\EstacionamientoSistema\obj\Debug\EstacionamientoSistema.Properties.Resources.resources
+C:\Users\Ana Laura\Downloads\EstacionamientoSistema\EstacionamientoSistema\obj\Debug\EstacionamientoSistema.csproj.GenerateResource.cache
+C:\Users\Ana Laura\Downloads\EstacionamientoSistema\EstacionamientoSistema\obj\Debug\EstacionamientoSistema.csproj.CoreCompileInputs.cache
+C:\Users\Ana Laura\Downloads\EstacionamientoSistema\EstacionamientoSistema\obj\Debug\EstacionamientoSistema.exe
+C:\Users\Ana Laura\Downloads\EstacionamientoSistema\EstacionamientoSistema\obj\Debug\EstacionamientoSistema.pdb
